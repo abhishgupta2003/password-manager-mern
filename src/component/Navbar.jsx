@@ -16,18 +16,14 @@ const Navbar = () => {
             Home
           </li>
           <li className="hover:text-blue-500 cursor-pointer transition">
-            Vault
+            About 
           </li>
           <li className="hover:text-blue-500 cursor-pointer transition">
-            Generator
+            Contact Us 
           </li>
         </ul>
 
-        {/* Action Button */}
-        <button className="bg-blue-600 text-white px-4 py-2 rounded-lg
-          hover:bg-blue-700 transition font-medium">
-          Add Password
-        </button>
+        
       </div>
     </nav>
   );

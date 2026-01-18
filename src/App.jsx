@@ -5,6 +5,8 @@ import './App.css'
 import Navbar from './component/Navbar.jsx'
 import Manager from './component/Manager.jsx'
 
+
+
 function App() {
 
 
@@ -12,6 +14,8 @@ function App() {
     <>
     <Navbar />
     <Manager />
+  
+
    
      </>
   )
